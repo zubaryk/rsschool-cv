@@ -216,3 +216,7 @@ body {
 
 ###Experience
 Since 2003 work in Open Joint Stock Company "Peleng", communication ingineer and maintenanceof secutity and fire systems.Organizationof correct operation and tymely repair of communications and fair alarm sistem, as well as uninterrupted operation of automation systems.
+
+
+###Hobby
+In my freetime I sports, also learn languages and something new. 

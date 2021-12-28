@@ -1,3 +1,6 @@
+![my foto](https://raw.githubusercontent.com/zubaryk/my-foto/main/DSCN116333.jpg "Моё фото")
+
+
 #Anna Zubaryk
 *38 years old*
 
@@ -219,4 +222,5 @@ Since 2003 work in Open Joint Stock Company "Peleng", communication ingineer and
 
 
 ###Hobby
+
 In my freetime I sports, also learn languages and something new. 

@@ -1,4 +1,4 @@
 # rsschool-cv
-[https://github.com/zubaryk/rsschool-cv/blob/rsschool-cv-html/cv.md](Markdown)
+[https:zubaryk.github.io/rsschool-cv/cv](Markdown)
 
-[https://github.com/zubaryk/rsschool-cv/blob/rsschool-cv-html/index.html](html)
+[https:zubaryk.github.io/rsschool-cv/](html)

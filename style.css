@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    max-width: 1440px;
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 20;
+    line-height: 1.5;
+    padding: 10px;
+    background-color: lightgray;
+}
+.header {
+    border: 1px solid gray;
+    padding: 5px 10px;
+
+    
+}
+.main {
+    border: 1px solid gray;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+}
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+}
+code {
+    color: blue;
+}

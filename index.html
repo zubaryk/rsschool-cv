@@ -2,10 +2,104 @@
 <html lang ="en">
     <head>
         <meta charset="UTF-8">
-        <title>cv2</title>
+        <title>cv</title>
         <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="assets/favicon.ico">
     </head>
     <body>
-        <p class = "new">Hello</p>
+        <header class = "header">
+            <nav class = "nav">
+                <ul class = "nav-list">
+                    <li class = "item"><a href="#PlaceOfResidence" class ="nav-linl">Place of residence</a></li>
+                    <li class = "item"><a href="#Contacts" class ="nav-linl">Contacts</a></li>
+                    <li class = "item"><a href="#Education" class ="nav-linl">Education</a></li>
+                    <li class = "item"><a href="#WorkExamples" class ="nav-linl">Work examples</a></li>
+                    <li class = "item"><a href="#Experience" class ="nav-linl">Experience</a></li>
+                    <li class = "item"><a href="#Hobby" class ="nav-linl">Hobby</a></li>
+                </ul>
+            </nav>
+
+        </header>
+                 <img src = "https://raw.githubusercontent.com/zubaryk/my-foto/main/DSCN116333.jpg" alt = "my foto">
+                 <h1>Anna Zubaryk</h1>
+        <main class = "main">
+                <p>38 years old</p>
+                <h2 id ="PlaceOfResidence">Place of residence</h2>
+                    <p>Belarus, Minsk</p>
+                <h2 id = "Contacts">Contacts</h2>
+                    <p>tel.:+375445540263</p>
+                    <p>email:annazubaryk@tut.by</p>
+                <h2 id = "Education">Education</h2>
+                    <ul>
+                        <li>2000-2006 Belarusian Technical University, faculty Instrumentation, specialty security technology</li>
+                        <li>2003-2006 Belorusian State Economic University, course Business economics and management</li>
+                        <li>2019-until now independent study of English </li>
+                        <li>(6 month) school Stream Line, A2 - Elementary</li>
+                        <li>(1 month) "Intro to IT course" Leverix Group</li>
+                        <li>until now way up: web-desing, web-layout, JavaScript and work in Visual Studio Code, codepen, Figma</li>
+                    </ul>
+                <h2 id ="WorkExamples">Work examples</h2>
+                    <pre>
+                                <code>
+                                    function showMessage (firstName, lastName) {
+                                        const fullName = `${firstName} ${lastName}`;
+                                    console.log(fullName);
+                                    }
+                                    showMessage ('Anna', 'Zubaryk');
+                                </code>
+                                <code>
+                                    const array = [
+                                    'я в Симбирск,',
+                                    'в трактире.',
+                                    'с утра',
+                                    'В ту же ночь',
+                                    'Я остановился',
+                                    'для закупки', 
+                                    'что и было поручено Савельичу.',
+                                    'приехал,',
+                                    'где должен был',
+                                    'нужных вещей',
+                                    'отправился по лавкам',
+                                    'пробыть сутки',
+                                    'Савельич'
+                                ];
+                                    array[0] = 'В ту же ночь'
+                                    array[1] = 'приехал'
+                                    array[2] = 'я в Симбирск,'
+                                    array[3] = 'где должен был'
+                                    array[4] = 'пробыть сутки'
+                                    array[5] = 'для закупки'
+                                    array[6] = 'нужных вещей'
+                                    array[7] = 'что и было поручено Савельичу.'
+                                    array[8] = 'Я остановился'
+                                    array [9] = 'в трактире.'
+                                    array[10] = 'Савельич'
+                                    array[11] = 'с утра'
+                                    array[12] = 'отправился по лавкам'
+                                    const result = array;
+                                    console.log(result.join(' '));
+                                </code>
+                                <code>
+                                const time = 2;
+                                const speedOfFirst = 95;
+                                const speedOfSecond = 114;
+                                let s1 = (speedOfFirst + speedOfSecond)*2; 
+                                console.log (s1);
+                                </code>
+                    </pre>
+                <h2 id = "Experience">Experience</h2>
+                    <p>
+                        Since 2003 work in Open Joint Stock Company "Peleng", communication ingineer and maintenanceof 
+                        secutity and fire systems.Organizationof correct operation and tymely repair of communications and fair alarm
+                        sistem, as well as uninterrupted operation of automation systems.
+                    </p>    
+                <h2 id ="Hobby">Hobby</h2>
+                <p>In my freetime I sports, also learn languages and something new.</p>
+        </main>
+        <footer class = "footer">
+            <img src = "rs_school_js.ico" alt = "logo">
+            <a href ="https://rs.school/js/" >rs-school</a> 
+            <a href = "https://github.com/zubaryk/rsschool-cv/tree/rsschool-cv-html">AnnaZubaryk<br>2022</a>
+        </footer>      
     </body>
 </html>

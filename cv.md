@@ -1,15 +1,13 @@
-#Hanna Zubaryk
+# Hanna Zubaryk
 ****************************
-****************************
-##Contact information:
+## Contact information:
 
 
 **Phone:** +375 44 554 02 63
 **E-mail:** anyuta04071983@tut.by
 **Discord** @zubaryk#8094
 ***************************
-***************************
-##Briefly About Myself:
+## Briefly About Myself:
 
 
 Finished Belarusian State Technical University, faculty instrumentation, speciality security technology. Also Belarusian State Economic University,
@@ -27,7 +25,7 @@ I like programming, because every time i complete a task, i learn somethings new
 planning to continue studying
 
 
-##Skills and prificiency
+## Skills and prificiency
 
 
 * HTML, CSS
@@ -37,7 +35,7 @@ planning to continue studying
 * Figma
 
 
-##Code Example
+## Code Example
 
 
 ```
@@ -111,7 +109,7 @@ mergeArrays();
 [https://github.com/zubaryk/cssBayan](cssBayan)
 
 
-##Courses
+## Courses
 
 * april 2021 i heard  through advertising about course for newbies “Intro to IT course”
 * WAY UP explosive start, web layoutr start
